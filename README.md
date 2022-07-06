@@ -4,8 +4,13 @@ Object Detection is the path toward finding genuine objects like vehicles, bikes
 We will deal with:
 
 Reading an image
+
 Extracting the RGB values of a pixel
+
 Extracting the Region of Interest (ROI)
+
 Resizing the Image
+
 Rotating the Image
+
 Drawing a Rectangle
